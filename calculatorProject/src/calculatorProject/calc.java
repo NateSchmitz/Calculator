@@ -8,5 +8,6 @@ public class calc {
 		JOptionPane.showMessageDialog(null, "message1", "title", JOptionPane.ERROR_MESSAGE);
 		JOptionPane.showMessageDialog(null, "message2", "title" , JOptionPane.INFORMATION_MESSAGE );
 		JOptionPane.showMessageDialog(null, "message3", "title", JOptionPane.ERROR_MESSAGE);
+		blah blah blag
 	}
 }
